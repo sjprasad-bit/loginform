@@ -71,9 +71,10 @@ a{
     font-size: 20px;
     font-weight: 900;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 640px) {
     body{
         box-shadow: none;
         color: red;
+        margin: 20px;
     }
 }
