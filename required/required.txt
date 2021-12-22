@@ -1,0 +1,25 @@
+title with id="title" in h1 sized text
+
+short explantion with id="description" in p sized text
+
+from with id="survey-from"
+
+name element with id="name" required
+
+mail element with id="email" required
+
+number element for id="number"
+
+For the name, email, and number input fields  corresponding labels that describe the purpose of each field with the following ids: id="name-label", id="email-label", and id="number-label".
+
+For the name, email, and number input fields placeholder text that gives me a description 
+
+dropdown that has a corresponding id="dropdown".
+
+radio buttons. Each group should be grouped using the name attribute
+
+checkboxes, each of which must have a value attribute.
+
+presented with a textarea at the end for additional comments.
+
+ button with id="submit" to submit all my inputs.
